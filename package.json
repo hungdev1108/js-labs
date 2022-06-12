@@ -1,0 +1,25 @@
+{
+  "name": "js---lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm runtest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungdev1108/js-labs.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "DNH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hungdev1108/js-labs/issues"
+  },
+  "homepage": "https://github.com/hungdev1108/js-labs#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
